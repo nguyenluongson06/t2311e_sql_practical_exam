@@ -1,5 +1,3 @@
-use [t2311e_exam]
-
 drop table if exists students;
 drop table if exists classes;
 drop table if exists teachers;
