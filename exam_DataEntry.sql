@@ -1,5 +1,3 @@
-use [t2311e_exam]
-
 insert into Teachers (FirstName, LastName, Subject)
 values
     ('Nguyen', 'An', 'Mathematics'),
